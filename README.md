@@ -1,4 +1,5 @@
-Repository Name: BMI Calculator
+#  BMI Calculator
+![icooo](https://github.com/deepakdevengineer/BMI-Calculator/assets/129176978/fe6c748d-47d9-4de5-80fd-c9f2c0bdad1a)
 
 **Description:**
 The BMI Calculator repository is a mobile application project aimed at helping users monitor their body mass index and track their health status over time. The app provides an intuitive user interface to input height and weight data and calculates the BMI based on the chosen units (metric or imperial). It then categorizes the BMI result into various health categories, such as Underweight, Normal, Overweight, or Obese, according to the WHO standards.
