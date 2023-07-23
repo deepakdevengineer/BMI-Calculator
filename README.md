@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 https://github.com/deepakdevengineer/BMI-Calculator/assets/129176978/ea93971c-e384-41f2-a637-ec3cc7b69096
 
-__________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________
 **Key Features:**
 
 *Height and Weight Input with customizable units (metric/imperial).
@@ -25,3 +25,7 @@ ________________________________________________________________________________
 *Informative sections about BMI and its significance.
 The repository follows best practices for version control, code structure, and modularity. It encourages open-source contributions and aims to continuously improve the app's features and functionalities. Developers interested in contributing to the BMI Calculator project can follow the guidelines provided in the repository's README.md file and submit pull requests to enhance the app further. Together, we aim to create a valuable tool that promotes healthy living and fitness awareness.
 
+________________________________________________________________________________________________________________________________________________________________________________
+
+# License
+This project is licensed under the MIT License.
